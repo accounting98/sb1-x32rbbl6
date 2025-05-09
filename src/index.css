@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  font-family: 'Tajawal', sans-serif;
+}
+
+@layer base {
+  html {
+    direction: rtl;
+  }
+  
+  body {
+    @apply font-tajawal bg-gray-50 text-gray-900;
+  }
+}

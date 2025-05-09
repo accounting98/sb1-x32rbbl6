@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#3B5998" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-warehouse">
+  <path d="M22 8.35V20a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V8.35a2 2 0 0 1 .56-1.39l8-7.78a2 2 0 0 1 2.87 0l8 7.78a2 2 0 0 1 .57 1.39Z" />
+  <path d="M12 22V12" />
+  <path d="M2 8h20" />
+</svg>
